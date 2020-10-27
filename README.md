@@ -1,6 +1,6 @@
 ### Hello, I'm Guido - aka [StereoPT](https://github.com/StereoPT)
 
-## I'm a Student, Barista and Developer!
+## I'm a Student, Leatherworker and Developer!
 - 🔭 Currently Working on a [TwitterBot](https://github.com/StereoPT/TwitterAI)
 - 🌱 I'm Currently Learning **React**
 - 👯 I’m looking to Collaborate with other Developers
