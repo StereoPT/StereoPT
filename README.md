@@ -1,7 +1,7 @@
 ### Hello, I'm Guido - aka [StereoPT](https://github.com/StereoPT)
 
 ## I'm a Student, Leatherworker and Developer!
-- 🔭 Currently Working on a [TwitterBot](https://github.com/StereoPT/TwitterAI)
+- 🔭 Currently Working on a [Manhwa PDF Generator](https://github.com/StereoPT/pdf-manhwa)
 - 🌱 I'm Currently Learning **React**
 - 👯 I’m looking to Collaborate with other Developers
 - 🥅 2020 Goals: Finish some Side-Projects
