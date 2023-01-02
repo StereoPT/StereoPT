@@ -31,7 +31,7 @@ I'm a Full-Stack Developer <img src="https://media.giphy.com/media/QssGEmpkyEOhB
 
 ---
 
-### :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
@@ -61,3 +61,9 @@ I'm a Full-Stack Developer <img src="https://media.giphy.com/media/QssGEmpkyEOhB
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
   </div>
 </div>
+
+---
+
+### :fire: Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StereoPT&theme=vue-dark&mode=weekly&background=00000000)](https://git.io/streak-stats)
