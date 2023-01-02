@@ -67,3 +67,6 @@ I'm a Full-Stack Developer <img src="https://media.giphy.com/media/QssGEmpkyEOhB
 ### :fire: Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=StereoPT&theme=vue-dark&mode=weekly&hide_border=true&background=00000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=StereoPT&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
